@@ -15,13 +15,12 @@ module.exports = {
   ownerOnly: false,
   run: async (client, message, args) => {
     let helpEmbed = new MessageEmbed()
-      .setTitle("<a:757683476756562084:873297833581744218> <a:757683476836122725:873297883250688020> <a:757683476580401184:873297902502551562>")
+      .setTitle("Hey man,")
       
       .addField(
-        "About Me:",
-        "Hi I am Bawwa! I am a web developer who codes in html,php,wordpress! I have been coding since 2020. Some of my hobbies are playing football, playing video games and coding! ",
+        "I am Bawwa! I am a web developer who codes in html,php,wordpress! I have been coding since 2020. Some of my hobbies are playing football, playing video games and coding! ",
       )
-      .setThumbnail("https://cdn.discordapp.com/avatars/813890066781962271/1224647ef75999e8308f476e5b1658f5.png?size=1024")
+      .setThumbnail("https://te.legra.ph/file/de0e39e68465f31d02241.jpg")
       .setFooter("Make sure to show your support by joning to my Discord server(linked below)! If you have any questions about the bot, join support server linked below ")
 
       let button1 = new disbut.MessageButton()
