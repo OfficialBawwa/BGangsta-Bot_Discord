@@ -82,14 +82,14 @@ let row1 = new disbut.MessageActionRow()
   .addComponent(thirdbutton)
 const step1 = new MessageEmbed()
   .setColor("cccfff")
-  .setTitle("<a:YellowArrow:870193892492980236> How to Use Uptimer!")
+  .setTitle("<a:YellowArrow:870193892492980236> How to Use B Gangsta!")
   .addField(
     "<:857122481088495629:873454677231034368> Get the link", "Our first step is to get the webpage link. You can find the code in the bottom or side of you repl.it(see screenshot below)! If you do not have this link, copy paste this code at the top of your `index.js` and run it again.\n ```https://pastebin.com/HJGhAUZf```"
   )
   .setImage("https://media.discordapp.net/attachments/870077234780725281/873324807444365413/Screen_Shot_2021-08-06_at_2.57.52_PM.png?width=1017&height=534")
 const step3 = new MessageEmbed()
   .setColor("cccfff")
-  .setTitle("<a:YellowArrow:870193892492980236> How to Use Uptimer!")
+  .setTitle("<a:YellowArrow:870193892492980236> How to Use B Gangsta!")
   .addField(
     "<:5286_three_emj_png:873453086981636127> Other Commands", "Now that we have added your project, you can use other command such as `projects` `remove` `stats` and `total`. Below Is an image of the remove command!  "
   )

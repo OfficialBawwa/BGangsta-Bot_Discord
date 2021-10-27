@@ -13,7 +13,7 @@ module.exports = {
         const embed = new Discord.MessageEmbed()
         .setTitle('')
         .setFooter("Page Home\n"+ client.user.username + " | Made by: Bawwa#3045", client.user.displayAvatarURL())
-        .setImage(`https://cdn.discordapp.com/attachments/820950216249180170/881037152576737320/standard.gif`)
+        .setImage(`https://media1.giphy.com/media/dwTp8Hmc53mlXkd92Z/giphy.gif`)
         .addField("<:category:866155255174660146> **__My Features__**",
 `>>> One of the best <:bughunter:866155261017063424> **all-in-one** Discord Bot! Moderation, Info, Utility, **Ticket**, and also a new awesome <:UPLogo:880786952205529169> __**B**__ System!
 <:up1:866155257583501342> Many **Nsfw** and <:fun:866155255321853982> **Fun** Commands (50+)
