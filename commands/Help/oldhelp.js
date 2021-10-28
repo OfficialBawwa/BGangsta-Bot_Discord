@@ -22,7 +22,7 @@ module.exports = {
         "`addrole` `auditlog` `ban` `dm` `embed` `hackban` `kick` `lock` `nuke` `removerole` `addemoji` `unban` `unlock`"
       )
       .addField(
-        "<:ChatBot:> **CHATBOT**",
+        " :ChatBot: **CHATBOT**",
         "`chatbot-disable` `chatbot-set`"
       )
       .addField(
