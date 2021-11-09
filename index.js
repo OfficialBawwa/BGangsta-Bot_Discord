@@ -1,4 +1,4 @@
-require("http").createServer((req, res) => res.end("Amiruman Gaming")).listen(process.env.PORT || 8080)
+require("http").createServer((req, res) => res.end("HARP Productions")).listen(process.env.PORT || 8080)
 require("dotenv").config();
 const { Client, Collection } = require("discord.js");
 const UrlsConfig = require("./database/models/UrlsConfig");
@@ -54,14 +54,6 @@ client.giveawaysManager = new GiveawaysManager(client, {
   }
 });
 
-/**
- * @INFO
- * Bot Coded by RogmitOp#6051 |
- * https://www.youtube.com/channel/UCPJRB-I9FCkWzgN3c2vKIpQ
- * @INFO
- * Please mention Him , when using this Code!
- * @INFO
- */
 
 //create buttons
 let firstbutton = new disbut.MessageButton()
